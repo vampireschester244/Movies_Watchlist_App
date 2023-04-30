@@ -10,7 +10,7 @@ To add, edit and watchlist the movies with custom login page and rate them based
  - Flask
  - MongoDB
 
-# What you will learn
+# Application Capabilities
  - Design, develop, and deploy full-stack web apps using Flask, Python, HTML, and CSS
  - Become a true HTML and CSS professional without the need for complicated JavaScript, or stop-gap solutions like Bootstrap and jQuery
  - Connect your Python applications to a MongoDB database on the cloud
